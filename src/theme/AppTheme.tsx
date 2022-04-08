@@ -14,7 +14,8 @@ export const styles = StyleSheet.create({
     {
         fontSize:60,
         color:'white',
-        textAlign:'right'
+        textAlign:'right',
+        marginBottom:10
     },
     resultadoPequeno:{
         fontSize:30,
@@ -39,7 +40,7 @@ export const styles = StyleSheet.create({
         textAlign:'center',
         padding:10,
         fontSize:30,
-        fontWeight:'300',
+        fontWeight:'700',
         color:'white'
     }
     
